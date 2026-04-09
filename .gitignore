@@ -1,0 +1,12 @@
+# Выходные CSV-файлы (генерируются при запуске скриптов)
+out_*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Editor / OS artefacts
+.DS_Store
+*.swp
